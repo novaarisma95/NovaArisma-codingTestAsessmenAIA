@@ -14,6 +14,8 @@
 		517DF8DA252B74D100F254BB /* AIATest.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 517DF8D8252B74D100F254BB /* AIATest.xcdatamodeld */; };
 		517DF8DC252B74D200F254BB /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 517DF8DB252B74D200F254BB /* Assets.xcassets */; };
 		517DF8DF252B74D200F254BB /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 517DF8DD252B74D200F254BB /* LaunchScreen.storyboard */; };
+		517DF8E7252B791F00F254BB /* MenuCollectionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517DF8E6252B791F00F254BB /* MenuCollectionViewController.swift */; };
+		517DF8E9252B793500F254BB /* MenuCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 517DF8E8252B793500F254BB /* MenuCollectionViewCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +28,8 @@
 		517DF8DB252B74D200F254BB /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		517DF8DE252B74D200F254BB /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		517DF8E0252B74D200F254BB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		517DF8E6252B791F00F254BB /* MenuCollectionViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCollectionViewController.swift; sourceTree = "<group>"; };
+		517DF8E8252B793500F254BB /* MenuCollectionViewCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MenuCollectionViewCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +66,8 @@
 				517DF8D1252B74D100F254BB /* SceneDelegate.swift */,
 				517DF8D3252B74D100F254BB /* ViewController.swift */,
 				517DF8D5252B74D100F254BB /* Main.storyboard */,
+				517DF8E6252B791F00F254BB /* MenuCollectionViewController.swift */,
+				517DF8E8252B793500F254BB /* MenuCollectionViewCell.swift */,
 				517DF8DB252B74D200F254BB /* Assets.xcassets */,
 				517DF8DD252B74D200F254BB /* LaunchScreen.storyboard */,
 				517DF8E0252B74D200F254BB /* Info.plist */,
@@ -145,6 +151,8 @@
 				517DF8D0252B74D100F254BB /* AppDelegate.swift in Sources */,
 				517DF8D2252B74D100F254BB /* SceneDelegate.swift in Sources */,
 				517DF8DA252B74D100F254BB /* AIATest.xcdatamodeld in Sources */,
+				517DF8E7252B791F00F254BB /* MenuCollectionViewController.swift in Sources */,
+				517DF8E9252B793500F254BB /* MenuCollectionViewCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
